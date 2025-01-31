@@ -54,7 +54,7 @@ but you can also pass a flag with an alternative directory using `--results_log_
 The default configs are in the `config/` folder. 
 You can overwrite any default hyperparameters using command line arguments as it was mentioned eraier.
 
-Results will be written to tensorboard event files, 
+Results will be written to the tensorboard event files, 
 and some visualisations will be printed every now and then.
 
 # References
